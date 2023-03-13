@@ -15,21 +15,21 @@ The files used in the simulation experiments can be downloaded via our ftp serve
 wget ftp://ftp.healthtech.dtu.dk:/public/simulation_data/*
 ```
 
-To download the individual files of the cave environment based on Pedersen, Mikkel Winther, et al. Environmental genomics of Late Pleistocene black bears and giant short-faced bears. Current Biology 31.12 (2021): 2728-2736. and Ardelean, C.F., Becerra-Valdivia, L., Pedersen, M.W. et al. Evidence of human occupation in Mexico around the Last Glacial Maximum. Nature 584, 87–92 (2020). https://doi.org/10.1038/s41586-020-2509-0 
+To download the individual files of the cave environment based on Pedersen, Mikkel Winther, et al. "Environmental genomics of Late Pleistocene black bears and giant short-faced bears." Current Biology 31.12 (2021): 2728-2736. and Ardelean, Ciprian F., et al. "Evidence of human occupation in Mexico around the Last Glacial Maximum." Nature 584.7819 (2020): 87-92.
 ```
  wget ftp://ftp.healthtech.dtu.dk:/public/simulation_data/cave_high_damage.pp.fq.gz
  wget ftp://ftp.healthtech.dtu.dk:/public/simulation_data/cave_mid_damage.pp.fq.gz
  wget ftp://ftp.healthtech.dtu.dk:/public/simulation_data/cave_no_damage.pp.fq.gz
 ```
 
-To download the individual files of the cave environment with human presence based on Gelabert, Pere, et al. Genome-scale sequencing and analysis of human, wolf, and bison DNA from 25,000-year-old sediment. Current biology 31.16 (2021): 3564-3574.
+To download the individual files of the cave environment with human presence based on Gelabert, Pere, et al. "Genome-scale sequencing and analysis of human, wolf, and bison DNA from 25,000-year-old sediment." Current biology 31.16 (2021): 3564-3574.
 ```
  wget ftp://ftp.healthtech.dtu.dk:/public/simulation_data/human_cave_high.pp.fq.gz
  wget ftp://ftp.healthtech.dtu.dk:/public/simulation_data/human_cave_mid.pp.fq.gz
  wget ftp://ftp.healthtech.dtu.dk:/public/simulation_data/human_cave_no.pp.fq.gz
 ```
 
-To download the individual files of the permaforst environment based on Murchie, Tyler J., et al. Collapse of the mammoth-steppe in central Yukon as revealed by ancient environmental DNA. Nature Communications 12.1 (2021): 7120. and Murchie, Tyler J., et al. Pleistocene mitogenomes reconstructed from the environmental DNA of permafrost sediments. Current Biology 32.4 (2022): 851-860.
+To download the individual files of the permaforst environment based on Murchie, Tyler J., et al. "Collapse of the mammoth-steppe in central Yukon as revealed by ancient environmental DNA." Nature Communications 12.1 (2021): 7120. and Murchie, Tyler J., et al. "Pleistocene mitogenomes reconstructed from the environmental DNA of permafrost sediments." Current Biology 32.4 (2022): 851-860.
 ```
  wget ftp://ftp.healthtech.dtu.dk:/public/simulation_data/perma_high_damage.pp.fq.gz
  wget ftp://ftp.healthtech.dtu.dk:/public/simulation_data/perma_mid_damage.pp.fq.gz
